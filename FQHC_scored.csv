@@ -1,0 +1,142 @@
+grant_number,fqhc_name,state,type,operator_type,site_count,contact_count,exec_count,bh_titled_count,on_natcon,on_nachc,score,reasons
+H80CS00408,"GULF COAST HEALTH CENTER, INC",TX,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,6,6,3,True,False,11,TX core; 10 sites sweet; real FQHC; 501c3; 6 contacts; 6 exec; 3 BH titles
+H80CS26514,"TRIAD ADULT & PEDIATRIC MEDICINE, INC.",NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,2,1,1,True,False,10,NC core; 6 sites sweet; real FQHC; 501c3; 2 contacts; 1 exec; 1 BH titles
+H80CS00539,COMMUNITY HEALTH ALLIANCE,NV,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,6,6,0,True,True,9,NV adj; 10 sites sweet; real FQHC; 501c3; 6 contacts; 6 exec
+H80CS00352,HORIZON HEALTH SERVICES INC,VA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,9,9,0,True,False,9,VA adj; 6 sites sweet; real FQHC; 501c3; 9 contacts; 9 exec
+H80CS00398,DETROIT COMMUNITY HEALTH CONNECTION,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,3,3,0,False,True,8,MI other; 7 sites sweet; real FQHC; 501c3; 3 contacts; 3 exec
+H80CS08226,EASTERN IOWA HEALTH CENTER,IA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,4,2,0,False,True,8,IA other; 6 sites sweet; real FQHC; 501c3; 4 contacts; 2 exec
+H80CS00485,"FAMILY HEALTH CENTERS OF GEORGIA, INC., THE",GA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",14,4,3,0,False,True,8,GA adj; 14 sites ok; real FQHC; 501c3; 4 contacts; 3 exec
+H80CS00382,MOROVIS COMMUNITY HEALTH CENTER INC,PR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,4,1,0,False,True,8,PR other; 7 sites sweet; real FQHC; 501c3; 4 contacts; 1 exec
+H80CS00244,RAPIDES PRIMARY HEALTH CARE CENTER INCORPORATED,LA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",5,2,2,0,False,True,8,LA adj; 5 sites sweet; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS08737,"ROANOKE CHOWAN COMMUNITY HEALTH CENTERS, INC.",NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,1,1,0,False,True,8,NC core; 10 sites sweet; real FQHC; 501c3; 1 exec
+H80CS06663,WESTERN WAYNE FAMILY HEALTH CENTERS,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,3,2,0,False,True,8,MI other; 6 sites sweet; real FQHC; 501c3; 3 contacts; 2 exec
+H80CS29048,"BEHAVIORAL HEALTH SERVICES, INC.",CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,4,3,0,True,False,8,CA other; 9 sites sweet; real FQHC; 501c3; 4 contacts; 3 exec
+H80CS28371,SOUTHLAND INTEGRATED SERVICES INC,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",2,3,1,0,True,False,8,CA other; 2 sites sweet; real FQHC; 501c3; 3 contacts; 1 exec
+H80CS25709,GENESEE HEALTH SYSTEM,MI,Federally Qualified Health Center (FQHC),U.S. Government Entity,5,3,2,1,True,False,8,MI other; 5 sites sweet; real FQHC; 3 contacts; 2 exec; 1 BH titles
+H80CS28348,APPALACHIAN MOUNTAIN COMMUNITY HEALTH CENTERS,NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Not Federal Tax Exempt",12,1,1,0,False,True,7,NC core; 12 sites ok; real FQHC; 501c3; 1 exec
+H80CS24172,"CHRIST COMMUNITY HEALTH SERVICES AUGUSTA, INC",GA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",5,1,1,0,False,True,7,GA adj; 5 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00881,CHRIST COMMUNITY HEALTH SERVICES INC,TN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",15,2,1,0,False,True,7,TN adj; 15 sites ok; real FQHC; 501c3; 2 contacts; 1 exec
+H80CS00833,"DELAWARE VALLEY COMMUNITY HEALTH, INC.",PA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",11,2,2,0,False,True,7,PA adj; 11 sites ok; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00758,EL CENTRO DEL BARRIO,TX,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",26,2,2,0,False,True,7,TX core; 26 sites; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00529,FAMILY FIRST HEALTH CORPORATION,PA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,1,1,0,False,True,7,PA adj; 10 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00484,"G.A. CARMICHAEL FAMILY HEALTH CENTER, INC",MS,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",17,5,4,0,False,True,7,MS other; 17 sites ok; real FQHC; 501c3; 5 contacts; 4 exec
+H80CS08744,GREAT SALT PLAINS HEALTH CENTER,OK,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",11,2,1,0,False,True,7,OK adj; 11 sites ok; real FQHC; 501c3; 2 contacts; 1 exec
+H80CS00659,HAMILTON HEALTH CENTER INC,PA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,1,1,0,False,True,7,PA adj; 6 sites sweet; real FQHC; 501c3; 1 exec
+H80CS26561,HCC NETWORK,MO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,2,2,0,False,True,7,MO other; 10 sites sweet; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS26566,"Jane Pauley Community Health Center, Inc.",IN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",22,5,5,2,True,True,7,IN other; 22 sites; real FQHC; 501c3; 5 contacts; 5 exec; 2 BH titles
+H80CS00152,MASSACHUSETTS LEAGUE OF COMMUNITY HEALTH CENTERS INC,MA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,2,2,0,False,True,7,MA other; 6 sites sweet; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00635,NORTH MS PRIMARY HEALTH CARE INC,MS,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",19,4,1,0,False,True,7,MS other; 19 sites ok; real FQHC; 501c3; 4 contacts; 1 exec
+H80CS00086,PIEDMONT HEALTH SERVICES INC,NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",18,1,1,0,False,True,7,NC core; 18 sites ok; real FQHC; 501c3; 1 exec
+H80CS00107,ROBESON HEALTH CARE CORPORATION,NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",12,1,1,0,False,True,7,NC core; 12 sites ok; real FQHC; 501c3; 1 exec
+H80CS00794,RURAL HEALTH MEDICAL PROGRAM INC,AL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",11,4,2,0,False,True,7,AL other; 11 sites ok; real FQHC; 501c3; 4 contacts; 2 exec
+H80CS24144,SHORTGRASS COMMUNITY HEALTH CENTER INC,OK,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",4,1,1,0,False,True,7,OK adj; 4 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00558,SWLA CENTER FOR HEALTH SERVICES,LA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,2,0,0,False,True,7,LA adj; 6 sites sweet; real FQHC; 501c3; 2 contacts
+H80CS00850,WATTS HEALTHCARE CORP,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,3,0,0,False,True,7,CA other; 3 sites sweet; real FQHC; 501c3; 3 contacts
+H80CS00399,COMMUNITY ACTION COMMITTEE OF PIKE COUNTY,OH,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",12,3,3,0,False,True,7,OH other; 12 sites ok; real FQHC; 501c3; 3 contacts; 3 exec
+H80CS00372,FREDERIKSTED HEALTH CARE INC,VI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",5,2,2,0,False,True,7,VI other; 5 sites sweet; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS06454,"PRIMARY CARE OF SOUTHWEST GEORGIA, INC.",GA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,False,True,7,GA adj; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00205,PRESBYTERIAN MEDICAL SERVICES,NM,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",76,2,1,2,True,False,7,NM adj; 76 sites; real FQHC; 501c3; 2 contacts; 1 exec; 2 BH titles
+H80CS00437,INTERNATIONAL COMMUNITY HEALTH SERVICES,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",12,2,2,1,True,False,7,WA other; 12 sites ok; real FQHC; 501c3; 2 contacts; 2 exec; 1 BH titles
+LALCS45788,"Mountain Area Health Education Center, INC.",NC,Federally Qualified Health Center (FQHC) Look-Alike,NA,61,3,2,1,True,False,7,NC core; 61 sites; 3 contacts; 2 exec; 1 BH titles
+H80CS28956,"VALLE DEL SOL, INC",AZ,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",36,2,2,0,True,False,7,AZ core; 36 sites; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00533,CENTRAL COUNTIES HEALTH CENTERS,IL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",5,1,1,1,True,False,7,IL other; 5 sites sweet; real FQHC; 501c3; 1 exec; 1 BH titles
+LALCS49935,LIBERTY RESOURCES INC,NY,Federally Qualified Health Center (FQHC) Look-Alike,NA,3,6,6,1,True,False,7,NY other; 3 sites sweet; 6 contacts; 6 exec; 1 BH titles
+H80CS00016,PUBLIC HEALTH MANAGEMENT CORP,PA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",15,1,1,1,True,False,7,PA adj; 15 sites ok; real FQHC; 501c3; 1 exec; 1 BH titles
+H80CS00316,LA CLINICA DE FAMILIA INC,NM,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",28,2,1,1,True,False,7,NM adj; 28 sites; real FQHC; 501c3; 2 contacts; 1 exec; 1 BH titles
+H80CS00313,"SUN RIVER HEALTH, INC.",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",85,3,3,1,True,False,7,NY other; 85 sites; real FQHC; 501c3; 3 contacts; 3 exec; 1 BH titles
+H80CS28355,"UNION COMMUNITY HEALTH CENTER, INC.",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,1,1,1,True,False,7,NY other; 7 sites sweet; real FQHC; 501c3; 1 exec; 1 BH titles
+H80CS00537,"1ST CHOICE HEALTHCARE, INC.",AR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,False,True,6,AR other; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00140,ADELANTE HEALTHCARE INC,AZ,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",15,1,0,0,False,True,6,AZ core; 15 sites ok; real FQHC; 501c3
+H80CS00172,CAMCARE HEALTH CORPORATION,NJ,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,False,True,6,NJ other; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00540,CLINICA SIERRA VISTA,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",39,3,2,0,False,True,6,CA other; 39 sites; real FQHC; 501c3; 3 contacts; 2 exec
+H80CS28962,"HIV/AIDS ALLIANCE FOR REGION TWO (HAART), INC.",LA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",18,1,1,0,False,True,6,LA adj; 18 sites ok; real FQHC; 501c3; 1 exec
+H80CS00148,"NORTHWEST HUMAN SERVICES, INC.",OR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",8,1,1,0,False,True,6,OR other; 8 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00677,PENINSULA COMMUNITY HEALTH SERVICES,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",42,4,4,0,False,True,6,WA other; 42 sites; real FQHC; 501c3; 4 contacts; 4 exec
+H80CS00057,"THE PROVIDENCE COMMUNITY HEALTH CENTERS, INC.",RI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",14,2,2,0,False,True,6,RI other; 14 sites ok; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00514,CHICAGO FAMILY HEALTH CENTER INC,IL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,1,1,0,False,True,6,IL other; 7 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00336,FAMILY HEALTH CENTER INC,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,1,1,0,False,True,6,MI other; 7 sites sweet; real FQHC; 501c3; 1 exec
+H80CS29009,HARVARD STREET NEIGHBORHOOD HEALTH CENTER INC,MA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,1,1,0,False,True,6,MA other; 3 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00727,JEFFERSON COMPREHENSIVE CARE SYSTEM INC,AR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,False,True,6,AR other; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00814,KALIHI PALAMA HEALTH CENTER,HI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,False,True,6,HI other; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS28966,KANSAS CITY CARE CLINIC,MO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,1,1,0,False,True,6,MO other; 10 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00179,MEDCURA HEALTH INC,GA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",16,1,1,0,False,True,6,GA adj; 16 sites ok; real FQHC; 501c3; 1 exec
+H80CS08764,MOREHOUSE COMMUNITY MEDICAL CENTERS INC,LA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",18,1,1,0,False,True,6,LA adj; 18 sites ok; real FQHC; 501c3; 1 exec
+H80CS00472,MORRIS HEIGHTS HEALTH CENTER INC,NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",34,4,3,0,False,True,6,NY other; 34 sites; real FQHC; 501c3; 4 contacts; 3 exec
+H80CS01139,"PENINSULA COMMUNITY HEALTH SERVICES OF ALASKA, INC.",AK,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,1,1,0,False,True,6,AK other; 3 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00712,PRYMED MEDICAL CARE INC.,PR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,1,1,0,False,True,6,PR other; 3 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00658,"QUALITY OF LIFE HEALTH SERVICES, INC.",AL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",25,3,3,0,False,True,6,AL other; 25 sites; real FQHC; 501c3; 3 contacts; 3 exec
+H80CS26609,RITTER CENTER,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",4,1,1,0,False,True,6,CA other; 4 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00866,"RURAL HEALTH GROUP, INC",NC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",22,1,1,0,False,True,6,NC core; 22 sites; real FQHC; 501c3; 1 exec
+H80CS00496,SAWTOOTH MOUNTAIN CLINIC,MN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",4,1,1,0,False,True,6,MN other; 4 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00376,SOUTHEAST ALABAMA RURAL HEALTH ASSOCIATE,AL,Federally Qualified Health Center (FQHC),Other,14,5,5,0,False,True,6,AL other; 14 sites ok; real FQHC; 5 contacts; 5 exec
+H80CS00646,WAIMANALO HEALTH CENTER,HI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",5,1,1,0,False,True,6,HI other; 5 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00147,COLUMBIA BASIN HEALTH ASSOCIATION,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,1,1,0,False,True,6,WA other; 6 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00628,MENDOCINO COMMUNITY HEALTH CLINIC INC,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",10,1,1,0,False,True,6,CA other; 10 sites sweet; real FQHC; 501c3; 1 exec
+H80CS29001,WHEELER CLINIC INC,CT,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",26,3,3,0,True,True,6,CT other; 26 sites; real FQHC; 501c3; 3 contacts; 3 exec
+H80CS18278,RAINELLE MEDICAL CENTER,WV,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",32,2,2,1,True,False,6,WV other; 32 sites; real FQHC; 501c3; 2 contacts; 2 exec; 1 BH titles
+LALCS55416,MERIDIAN HEALTHCARE,OH,Federally Qualified Health Center (FQHC) Look-Alike,NA,4,2,1,1,True,False,6,OH other; 4 sites sweet; 2 contacts; 1 exec; 1 BH titles
+H80CS30711,ALETHEIA HOUSE INC,AL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,1,1,0,True,False,6,AL other; 3 sites sweet; real FQHC; 501c3; 1 exec
+H80CS12872,WELLSPACE HEALTH,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",33,7,5,0,True,False,6,CA other; 33 sites; real FQHC; 501c3; 7 contacts; 5 exec
+H80CS29021,FAMILY HEALTH CARE OF NORTHWEST OHIO INC,OH,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",1,2,2,0,True,False,6,OH other; 1 sites ok; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00492,FAMILY CARE HEALTH CENTERS,MO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",4,1,1,0,True,False,6,MO other; 4 sites sweet; real FQHC; 501c3; 1 exec
+H80CS08776,VALLEY PROFESSIONALS COMMUNITY HEALTH CENTER INC,IN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",16,1,1,1,True,False,6,IN other; 16 sites ok; real FQHC; 501c3; 1 exec; 1 BH titles
+H80CS24130,CHESTNUT HEALTH SYSTEMS INC,IL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",8,1,1,0,True,False,6,IL other; 8 sites sweet; real FQHC; 501c3; 1 exec
+H80CS26563,"COMPASS HEALTH, INC",MO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",71,3,2,0,True,False,6,MO other; 71 sites; real FQHC; 501c3; 3 contacts; 2 exec
+H80CS04435,"MAT-SU HEALTH SERVICES, INC.",AK,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",4,1,0,1,True,False,6,AK other; 4 sites sweet; real FQHC; 501c3; 1 BH titles
+H80CS00157,"COMMUNITY HEALTH CENTER OF BUFFALO, INC",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",6,1,1,0,True,False,6,NY other; 6 sites sweet; real FQHC; 501c3; 1 exec
+H80CS00315,NORTH CAROLINA DEPARTMENT OF HEALTH & HUMAN SERVICES,NC,Federally Qualified Health Center (FQHC),U.S. Government Entity,14,1,1,0,True,False,6,NC core; 14 sites ok; real FQHC; 1 exec
+H80CS33643,ALTAPOINTE HEALTH SYSTEMS INC,AL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",9,1,1,0,True,False,6,AL other; 9 sites sweet; real FQHC; 501c3; 1 exec
+H80CS49339,RUTGERS THE STATE UNIVERSITY OF NEW JERSEY,NJ,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",3,2,0,0,True,False,6,NJ other; 3 sites sweet; real FQHC; 501c3; 2 contacts
+H80CS26614,APLA HEALTH & WELLNESS,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",14,1,1,0,False,True,5,CA other; 14 sites ok; real FQHC; 501c3; 1 exec
+H80CS00560,"BROCKTON NEIGHBORHOOD HEALTH CENTER, INC.",MA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",7,1,0,0,False,True,5,MA other; 7 sites sweet; real FQHC; 501c3
+H80CS00626,"BRONX COMMUNITY HEALTH NETWORK, INC.",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",20,1,1,0,False,True,5,NY other; 20 sites ok; real FQHC; 501c3; 1 exec
+LALCS00012,"CASTLE FAMILY HEALTH CENTERS, INC.",CA,Federally Qualified Health Center (FQHC) Look-Alike,NA,4,2,2,0,False,True,5,CA other; 4 sites sweet; 2 contacts; 2 exec
+H80CS00849,"Finger Lakes Community Health, Inc",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",15,1,1,0,False,True,5,NY other; 15 sites ok; real FQHC; 501c3; 1 exec
+H80CS00801,"SALUD FAMILY HEALTH, INC.",CO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",24,1,1,0,False,True,5,CO adj; 24 sites; real FQHC; 501c3; 1 exec
+H80CS00654,CARESOUTH CAROLINA INC,SC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",21,1,1,0,False,True,5,SC adj; 21 sites; real FQHC; 501c3; 1 exec
+LALCS54783,COASTAL GATEWAY HEALTH CENTER,TX,Federally Qualified Health Center (FQHC) Look-Alike,NA,1,1,1,0,False,True,5,TX core; 1 sites ok; 1 exec
+H80CS00115,ERIE FAMILY HEALTH CENTER,IL,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",13,1,1,0,False,True,5,IL other; 13 sites ok; real FQHC; 501c3; 1 exec
+H80CS00303,"FENWAY COMMUNITY HEALTH CENTER, INC.",MA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",1,1,1,0,False,True,5,MA other; 1 sites ok; real FQHC; 501c3; 1 exec
+H80CS07502,LEGACY COMMUNITY HEALTH SERVICES INC,TX,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",64,1,0,0,False,True,5,TX core; 64 sites; real FQHC; 501c3
+H80CS04202,MARY'S CENTER FOR MATERNAL AND CHILD CARE INC.,DC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",30,1,1,0,False,True,5,DC adj; 30 sites; real FQHC; 501c3; 1 exec
+H80CS00170,"OAK ORCHARD COMMUNITY HEALTH CENTER, INC.",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",14,1,1,0,False,True,5,NY other; 14 sites ok; real FQHC; 501c3; 1 exec
+H80CS00715,"PRIMARY HEALTH CARE, INC",IA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",18,1,1,0,False,True,5,IA other; 18 sites ok; real FQHC; 501c3; 1 exec
+H80CS33884,PUREVIEW HEALTH CENTER,MT,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",11,1,1,0,False,True,5,MT other; 11 sites ok; real FQHC; 501c3; 1 exec
+H80CS00873,ST. JOHN'S COMMUNITY HEALTH,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",29,2,1,0,False,True,5,CA other; 29 sites; real FQHC; 501c3; 2 contacts; 1 exec
+H80CS00599,Swope Health Services,MO,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",19,1,1,0,False,True,5,MO other; 19 sites ok; real FQHC; 501c3; 1 exec
+H80CS00620,MIGRANT HEALTH CENTER WESTERN REGION INC,PR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",26,2,2,0,False,True,5,PR other; 26 sites; real FQHC; 501c3; 2 contacts; 2 exec
+H80CS00885,SCHOOL HEALTH CLINICS OF SANTA CLARA COUNTY,CA,Federally Qualified Health Center (FQHC),Partnership,6,1,1,0,False,True,5,CA other; 6 sites sweet; real FQHC; 1 exec
+LALCS40296,"Bowen Health, INC.",IN,Federally Qualified Health Center (FQHC) Look-Alike,NA,16,3,3,0,True,False,5,IN other; 16 sites ok; 3 contacts; 3 exec
+LALCS00170,INTERCOMMUNITY INC,CT,Federally Qualified Health Center (FQHC) Look-Alike,NA,16,3,2,0,True,False,5,CT other; 16 sites ok; 3 contacts; 2 exec
+LALCS31617,COMMUNITY SUPPORT SERVICES INC,OH,Federally Qualified Health Center (FQHC) Look-Alike,NA,1,3,3,0,True,False,5,OH other; 1 sites ok; 3 contacts; 3 exec
+H80CS00770,CHERRY STREET SERVICES INC,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",25,1,1,1,True,False,5,MI other; 25 sites; real FQHC; 501c3; 1 exec; 1 BH titles
+H80CS00708,GREATER PHILADELPHIA HEALTH ACTION INC,PA,Federally Qualified Health Center (FQHC),"Corporate Entity, Not Federal Tax Exempt",13,1,0,0,True,False,5,PA adj; 13 sites ok; real FQHC; 501c3
+H80CS00262,"FIRST CHOICE HEALTH CENTERS, INC.",CT,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",13,1,1,0,True,False,5,CT other; 13 sites ok; real FQHC; 501c3; 1 exec
+H80CS00679,ALCONA CITIZENS FOR HEALTH INC,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",37,1,1,0,False,True,4,MI other; 37 sites; real FQHC; 501c3; 1 exec
+H80CS00765,AMPLA HEALTH,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",23,1,1,0,False,True,4,CA other; 23 sites; real FQHC; 501c3; 1 exec
+H80CS00207,ARCARE,AR,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",120,1,1,0,False,True,4,AR other; 120 sites; real FQHC; 501c3; 1 exec
+H80CS00360,HEALTHPOINT,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",23,1,1,0,False,True,4,WA other; 23 sites; real FQHC; 501c3; 1 exec
+H80CS00574,COLUMBIA VALLEY COMMUNITY HEALTH,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",25,1,1,0,False,True,4,WA other; 25 sites; real FQHC; 501c3; 1 exec
+H80CS00314,"GREATER LAWRENCE FAMILY HEALTH CENTER, INC",MA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",26,1,1,0,False,True,4,MA other; 26 sites; real FQHC; 501c3; 1 exec
+H80CS06662,HEALTHLINC INC,IN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",16,1,0,0,False,True,4,IN other; 16 sites ok; real FQHC; 501c3
+H80CS08240,HOPEHEALTH INC,SC,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",24,1,0,0,False,True,4,SC adj; 24 sites; real FQHC; 501c3
+LALCS32717,NEIGHBORHOOD HEALTH CENTER INC,IN,Federally Qualified Health Center (FQHC) Look-Alike,NA,5,1,1,0,False,True,4,IN other; 5 sites sweet; 1 exec
+LALCS33880,"PINNACLE FAMILY HEALTH, INC.",LA,Federally Qualified Health Center (FQHC) Look-Alike,NA,1,1,1,0,False,True,4,LA adj; 1 sites ok; 1 exec
+H80CS00046,COUNTY OF SANTA BARBARA,CA,Federally Qualified Health Center (FQHC),U.S. Government Entity,19,1,1,0,False,True,4,CA other; 19 sites ok; real FQHC; 1 exec
+H80CS00832,SHASTA COMMUNITY HEALTH CENTER,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",14,1,0,0,False,True,4,CA other; 14 sites ok; real FQHC; 501c3
+H80CS00368,"URBAN HEALTH PLAN, INC",NY,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",26,1,1,0,False,True,4,NY other; 26 sites; real FQHC; 501c3; 1 exec
+H80CS00689,GREAT LAKES BAY HEALTH CENTERS,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",34,1,1,0,False,True,4,MI other; 34 sites; real FQHC; 501c3; 1 exec
+LALCS40297,"Ibis Healthcare, Inc.",FL,Federally Qualified Health Center (FQHC) Look-Alike,NA,2,1,1,0,True,False,4,FL other; 2 sites sweet; 1 exec
+H80CS00790,"WEST SIDE COMMUNITY HEALTH SERVICES, INC.",MN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",18,1,0,0,True,False,4,MN other; 18 sites ok; real FQHC; 501c3
+H80CS02330,FRIENDS OF THE COMMUNITY ACTION PARTNERSHIP OF NATRONA COUNTY,WY,Federally Qualified Health Center (FQHC),U.S. Government Entity,4,1,0,0,True,False,4,WY other; 4 sites sweet; real FQHC
+LALCS30797,HEALTHRIGHT 360,CA,Federally Qualified Health Center (FQHC) Look-Alike,NA,2,1,1,0,True,False,4,CA other; 2 sites sweet; 1 exec
+H80CS45850,University of Kentucky,KY,Federally Qualified Health Center (FQHC),Other,5,1,0,0,True,False,4,KY other; 5 sites sweet; real FQHC
+H80CS26511,UPPER GREAT LAKES FAMILY HEALTH CENTER,MI,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",13,1,0,0,True,False,4,MI other; 13 sites ok; real FQHC; 501c3
+H80CS00119,LAKE COUNTY HEALTH DEPARTMENT & COMMUNITY HEALTH CENTER,IL,Federally Qualified Health Center (FQHC),U.S. Government Entity,9,1,0,0,True,False,4,IL other; 9 sites sweet; real FQHC
+LALCS00186,FAMILIES TOGETHER OF ORANGE COUNTY,CA,Federally Qualified Health Center (FQHC) Look-Alike,NA,12,1,1,0,False,True,3,CA other; 12 sites ok; 1 exec
+H80CS00742,GOLDEN VALLEY HEALTH CENTERS,CA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",53,1,0,0,False,True,3,CA other; 53 sites; real FQHC; 501c3
+LALCS40206,JAMHI HEALTH & WELLNESS INC,AK,Federally Qualified Health Center (FQHC) Look-Alike,NA,1,1,1,0,False,True,3,AK other; 1 sites ok; 1 exec
+H80CS00829,NEIGHBORCARE HEALTH,WA,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",31,1,0,0,False,True,3,WA other; 31 sites; real FQHC; 501c3
+H80CS26567,MERIDIAN HEALTH SERVICES CORP.,IN,Federally Qualified Health Center (FQHC),"Corporate Entity, Federal Tax Exempt",50,1,0,0,True,False,3,IN other; 50 sites; real FQHC; 501c3
+H80CS25684,HEALTH CARE DISTRICT OF PALM BEACH COUNTY,FL,Federally Qualified Health Center (FQHC),U.S. Government Entity,13,1,0,0,True,False,3,FL other; 13 sites ok; real FQHC
+LALCS31260,ASPIRE INDIANA HEALTH INC,IN,Federally Qualified Health Center (FQHC) Look-Alike,NA,13,1,0,0,True,False,2,IN other; 13 sites ok
